@@ -1,0 +1,1 @@
+# Thyroid-Detection-using-Ultra-sound-Image.
